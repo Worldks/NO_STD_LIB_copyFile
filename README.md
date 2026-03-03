@@ -5,7 +5,7 @@
 В директории build  
 >make prog  
 >Заполнить файл file_from некоторым содержимым  
->./prog file_from output_filename
+>./prog file_from output_filename  
 Программа скомпилируется только под Unix на x86 совместимой платформе.
 Также необходимо установить nasm  
 >sudo apt install nasm
